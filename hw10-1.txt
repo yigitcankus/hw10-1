@@ -1,0 +1,34 @@
+1) Kirmizi saraplar, beyaz saraplar, kirmizi güller 
+ve beyaz güllerin resimlerini içeren bir veri seti
+ oldugumuzu varsayalim. Bu gözlemleri kümelemek 
+isteseydiniz, bunu nasil yapardiniz? 
+Renkleri veya baska herhangi özelligi temel alarak
+ nasil kümelemek istersiniz? Farkli kümeleme 
+seçeneklerinin artilarini ve eksilerini tartisin.
+
+Ilk önce sarap ve gül birbirinden farkli oldugu
+ için buna göre kümelerdim. Daha sonra da daha 
+spesifik olan renklerine göre kümelerdim.
+Elimizde iki küme oldugu için çok fazla bir 
+görsellestirme problemi çekmeyiz. Ayni sekilde 
+sadece 2 kümemiz oldugu için dimention curse 
+problemi de çekmeyiz.
+
+2)Duvardaki bir gölge, gerçek dünya üç boyutlu 
+bir nesnenin iki boyutlu bir gösterimidir. Bir 
+tavsan ve bir kedi gördügünüzde, onlari kolayca
+ tanimlayabilirsiniz. Ancak, sadece duvardaki 
+gölgelerine bakarak kolayca teshis edebiliyorlar 
+mi? 2 boyutlu uzayda 3 boyutlu nesneleri temsil 
+ederken hangi bilgiler korunur ve kaybolur?
+
+Gölge örnegine bakarsak kesinlikle bazi seyleri
+kaybederiz. Renklerini kalinligini vs. Ama PCA 
+ile çalisirken boyut indirgeme yaptigimizda PCA 
+bizim için verileri daha fazla korur ve kaybimizi
+azaltir.
+
+
+
+
+
